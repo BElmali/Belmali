@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**BElmali/Belmali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+I am actively working on specializing in the field of data science, staying abreast of the latest technologies and trends in this area. Continuously improving myself and staying updated with innovation are important goals for me. If you would like to exchange ideas with me on these topics, please feel free to get in touch with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top Skills
+Python • Data Science • Microsoft 365 • Data Visualization
+
+
+
+
+
+#### [LinkedIn](https://www.linkedin.com/in/burak-elmali/) 
+
+
+
+  
