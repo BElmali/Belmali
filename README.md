@@ -10,20 +10,15 @@ Python • Data Science • Microsoft 365 • Data Visualization
 
 Hello! This GitHub repository is created as a portfolio for data science projects. Below, you can find links to repositories containing projects conducted on various topics.
 
-## CRM Analytics
-- ([link](https://github.com/BElmali/CRM-Analytics))
+## [CRM Analytics](https://github.com/BElmali/CRM-Analytics)
 
-## Measurement Problems
-- ([link](https://github.com/BElmali/Measurement-Problems))
+## [Measurement Problems](https://github.com/BElmali/Measurement-Problems)
 
-## Recommendation System
-- ([link](https://github.com/BElmali/Recommendation-System))
+## [Recommendation System](https://github.com/BElmali/Recommendation-System)
 
-## Feature Engineering
-- ([link](https://github.com/BElmali/Feature-Engineering))
+## [Feature Engineering](https://github.com/BElmali/Feature-Engineering)
 
-## Time Series
-- ([link](https://github.com/BElmali/Time-Series))
+## [Time Series](https://github.com/BElmali/Time-Series)
 
 You can click on each project repository to access detailed information and explore the work conducted on the projects.
 
