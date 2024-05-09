@@ -6,9 +6,11 @@ I am actively working on specializing in the field of data science, staying abre
 ## Top Skills
 Python • Data Science • Microsoft 365 • Data Visualization
 
-# Data Science Project Portfolio
+### [LinkedIn](https://www.linkedin.com/in/burak-elmali/) 
 
-Hello! This GitHub repository is created as a portfolio for data science projects. Below, you can find links to repositories containing projects conducted on various topics.
+# Data Science Projects 
+
+
 
 ## [CRM Analytics](https://github.com/BElmali/CRM-Analytics)
 
@@ -27,7 +29,7 @@ If you have any feedback or questions, please feel free to reach out. Enjoy expl
 
 
 
-#### [LinkedIn](https://www.linkedin.com/in/burak-elmali/) 
+
 
 
 
