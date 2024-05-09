@@ -6,6 +6,28 @@ I am actively working on specializing in the field of data science, staying abre
 ## Top Skills
 Python • Data Science • Microsoft 365 • Data Visualization
 
+# Data Science Project Portfolio
+
+Hello! This GitHub repository is created as a portfolio for data science projects. Below, you can find links to repositories containing projects conducted on various topics.
+
+## CRM Analytics
+- [CRM Analytics Project]([link](https://github.com/BElmali/CRM-Analytics))
+
+## Measurement Problems
+- [Measurement Problems Project]([link](https://github.com/BElmali/Measurement-Problems))
+
+## Recommendation System
+- [Recommendation System Project]([link](https://github.com/BElmali/Recommendation-System))
+
+## Feature Engineering
+- [Feature Engineering Project]([link](https://github.com/BElmali/Feature-Engineering))
+
+## Time Series
+- [Time Series Project]([link](https://github.com/BElmali/Time-Series))
+
+You can click on each project repository to access detailed information and explore the work conducted on the projects.
+
+If you have any feedback or questions, please feel free to reach out. Enjoy exploring!
 
 
 
